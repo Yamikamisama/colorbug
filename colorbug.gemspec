@@ -6,10 +6,10 @@ require 'colorbug/version'
 Gem::Specification.new do |spec|
   spec.name          = "colorbug"
   spec.version       = Colorbug::VERSION
-  spec.authors       = ["Michael Angelo", "Matt Weckle", "Viktor Nikitenko"]
+  spec.authors       = ["Michael Angelo"]
   spec.email         = ["yamikamisama@gmail.com"]
   spec.summary       = %q{Colors output based on Classes}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.description   = %q{String, Array, Hash, and Fixnum are different colors}
   spec.homepage      = ""
   spec.license       = "MIT"
 
