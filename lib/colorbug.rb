@@ -5,7 +5,3 @@ require 'Win32/Console/ANSI' if RUBY_PLATFORM =~ /win32/
 module Colorbug
 
 end
-
-
-
-puts "hello"
