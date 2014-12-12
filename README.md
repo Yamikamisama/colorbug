@@ -1,6 +1,14 @@
 # Colorbug
 
-TODO: Write a gem description
+A useful debugging gem that colors output based on select class 
+
+String: Yellow
+
+Array: Red
+
+Hash: Purple
+
+Integers: Blue
 
 ## Installation
 
@@ -20,7 +28,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+This gem is used to color outputs, when you use the puts command it will color the the output based on the class that you are using.
 
 ## Contributing
 
